@@ -1,4 +1,4 @@
-```
+
 # Emoji Converter
 
 This is a simple Flask web application that allows you to convert text to emojis and vice versa. The application generates a random mapping between alphabets and emojis, providing a fun way to encrypt and decrypt messages.
