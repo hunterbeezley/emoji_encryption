@@ -9,8 +9,8 @@ This is a simple Flask web application that allows you to convert text to emojis
 
 To run this application locally, you need to have the following installed:
 
-- Python (version X.X.X)
-- Flask (version X.X.X)
+- Python (version 3.11.4)
+- Flask (version 2.3.2)
 
 ### Installation
 
